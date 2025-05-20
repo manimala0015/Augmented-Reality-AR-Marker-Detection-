@@ -1,6 +1,6 @@
 AUGMENTED REALITY (AR) MARKER DETECTION 
 
-Introduction:
+INTRODUCTION:
 
 (AR Augmented Reality) is a rapidly evolving technology that overlays digital 
 content onto the physical world, enhancing real-world experiences through 
@@ -11,7 +11,7 @@ detection involves identifying predefined patterns, such as QR codes or
 fiducial markers, using a device's camera and then aligning virtual objects 
 relative to these markers in real time.
 
-Overview:
+OVERVIEW:
 
 AR marker detection is a foundational technique in augmented reality 
 where visual markers (usually 2D images like QR codes, black-and-white 
@@ -19,7 +19,7 @@ squares, or custom patterns) are recognized by a device’s camera to
 overlay digital content in the real world. These markers act as reference 
 points to anchor virtual objects precisely in a physical environment.
 
-Features:
+FEATURES:
 
 1. Marker Recognition:
 
@@ -43,7 +43,7 @@ content accurately.
 
 ○ Allows developers to use custom-designed images or logos as markers.
 
-Usages:
+USAGES:
 
 1. Education and Training:
 
@@ -65,7 +65,7 @@ Usages:
 
 ○ Augmented tours and 3D model visualizations of artifacts.
 
-Technologies Used:
+TECHNOLOGIES USED:
 
 1. Computer Vision Algorithms:
 
@@ -87,7 +87,7 @@ Technologies Used:
 
 ○ Cameras (mobile, tablet, AR glasses), gyroscopes, and accelerometers.
 
-Conclusion:
+CONCLUSION:
 
 AR marker detection is a reliable and cost-effective way to implement 
 augmented reality, particularly useful for indoor environments or controlled 
